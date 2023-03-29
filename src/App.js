@@ -1,4 +1,4 @@
-import { Notifyer } from "./Notifyer.js.js"
+import { Notifyer } from "./Notifyer.js"
 import { Timer } from "./Timer.js"
 import { Emitter } from "./Emiter.js"
 
